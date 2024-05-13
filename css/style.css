@@ -1,4 +1,6 @@
 body
 {
-  background-color: red;;
+  background-color: red;
+  color: greenyellow;
+  font-size: larger;
 }
